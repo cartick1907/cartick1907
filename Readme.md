@@ -40,7 +40,7 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://react-spring.io/" target="_blank"> <img src="https://react-spring.io/spring-icon.png" height="50px"/> </a>
-    <a href="https://go.dev/" target="_blank"> <img src="/img/go.svg" height="50px"/> </a>
+    <a href="https://go.dev/" target="_blank"> <img src="/img/go.jpg" height="50px"/> </a>
 
 </p>
 
