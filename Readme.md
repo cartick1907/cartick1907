@@ -26,10 +26,7 @@
 [<img align="left" alt="GO" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;"/>]
 
-<br />
-<br />
-
----
+## <br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
