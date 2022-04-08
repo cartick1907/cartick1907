@@ -22,7 +22,6 @@
 <p align="left"> 
     <a href="https://www.cpp.com" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="50px"/> </a>
     <a href="https://www.c.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="50px"/> </a>
-    <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" height="50px"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="50px"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.electronjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" height="50px"/> </a> 
@@ -41,10 +40,7 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://react-spring.io/" target="_blank"> <img src="https://react-spring.io/spring-icon.png" height="50px"/> </a>
-    <a href="https://mui.com/" target="_blank"> <img src="https://mui.com/static/logo.png" height="50px"/> </a>
-    <a href="https://www.adobe.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="50px"/> </a>
-    <a href="https://www.adobe.com/" target="_blank"> <img src="https://seeklogo.com/images/A/adobe-illustrator-logo-775FAF240B-seeklogo.com.png" height="50px"/> </a>
-    <a href="https://cloud.google.com/" target="_blank"> <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" height="50px"/> </a>
+    <a href="https://go.dev/" target="_blank"> <img src="/img/go.svg" height="50px"/> </a>
 
 </p>
 
