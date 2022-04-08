@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](link)**
-
 - 📫 How to reach me **kartikbhatt1299@gmail.com**
 
 - ⚡ Fun fact **I love playing videogames and badmintion.**
