@@ -1,11 +1,11 @@
-<a href="#"><img width="100%" src="/img/coding.png" height="250px"/></a>
+<a href="#"><img width="100%" src="https://github.com/Vasu1712/Vasu1712/blob/22797c86c0213f0f425bf224f8ceea59d6c09a52/avatar.svg" height="250px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kartik</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Go Host](link)**
+- 🔭 I’m currently working on **A full stack project**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](link)**
 
-- 📫 How to reach me **vasupal.17.12.2002@gmail.com**
+- 📫 How to reach me **kartikbhatt1299@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I love playing videogames and badmintion.**
 
 ## 🚀 Languages and Tools:
 
